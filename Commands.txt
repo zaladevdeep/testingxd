@@ -1,7 +1,12 @@
 git init
 git remote add origin <repo https link>
 git remote -v
+
 git add .
 git add <filename>
+git commit -m "<Comments>"
+git push origin master
+
+git rm <filename>
 git commit -m "<Comments>"
 git push origin master
